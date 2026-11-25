@@ -1,0 +1,18 @@
+/fotoensayo-magdalena
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── /photos
+│      ├── portada.jpg          (tu foto portada)
+│      ├── foto1.jpg
+│      ├── foto2.jpg
+│      └── ... hasta foto20.jpg
+│
+├── /data
+│      ├── contexto.json        (textos sobre contexto cultural)
+│      └── parametros.json      (datos técnicos de las fotos)
+│
+└── /audio
+       └── musica.mp3           (tu archivo de música)
